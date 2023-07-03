@@ -16,6 +16,9 @@ export default {
       },
       fontFamily: {
         'Inter': ['Inter', 'sans-serif']
+      },
+      screens:{
+        '1xl': '1440px'
       }
     },
   },

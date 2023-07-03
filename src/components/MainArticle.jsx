@@ -3,7 +3,7 @@ import imageDesktop from '../assets/images/image-web-3-desktop.jpg'
 
 export const MainArticle = () => {
   return (
-    <main className='mb-12 md:mb-0'>
+    <section className='mb-12 md:mb-0'>
       <picture>
         <source media='(max-width: 640px)' srcSet={imageMobile} />
         <source media='(min-width: 641px)' srcSet={imageDesktop} />
@@ -18,6 +18,6 @@ export const MainArticle = () => {
           <button className='bg-SoftRed w-[185px] h-[48px] uppercase text-OffWhite hover:bg-VeryDarkBlue '>Read more</button>
         </div>
       </div>
-    </main>
+    </section>
   )
 }

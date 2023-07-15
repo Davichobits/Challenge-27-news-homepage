@@ -1,6 +1,6 @@
 # Hola! 👋
 
-Ese es un reto frontend hecho en el canal de YouTube [CodingTube](https://www.youtube.com/watch?v=UMVb8b_VJwo).
+Ese es un reto frontend hecho en el canal de YouTube [CodingTube]([https://www.youtube.com/watch?v=UMVb8b_VJwo](https://www.youtube.com/watch?v=UMVb8b_VJwo&list=PLJubkp8BnTJswvyI9GZN9AEb87D1PSKKL&index=36)).
 
 ## Reto 27 - News homepage
 
